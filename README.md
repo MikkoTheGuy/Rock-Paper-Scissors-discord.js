@@ -4,7 +4,9 @@
 
 -- The bot doesn't work at the moment --
 
+-----------------
 Default Prefix: !
+-----------------
 
 Working CMDS:
 !help: Shows help message
