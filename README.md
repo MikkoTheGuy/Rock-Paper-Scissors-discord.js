@@ -3,6 +3,8 @@
 
 - ⚙ Project status: Working... 
 
+- ⁉ Default Prefix: !
+
 - ⚡ Fun fact: **I started this project while watching a guy coding on discord**
 
 
