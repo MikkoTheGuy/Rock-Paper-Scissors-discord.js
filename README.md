@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MikkoTheGuy</h1>
-<h3 align="center">! The bot at the moment doesn't work at the moment!</h3>
+<h3 align="center">! The bot at the moment doesn't work at the moment !</h3>
 
 - ⚙ Project status: Working... 
 
