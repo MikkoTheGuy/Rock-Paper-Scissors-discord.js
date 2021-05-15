@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MikkoTheGuy</h1>
-<h3 align="center">! The bot doesn't work at the moment !</h3>
+<h3 align="center">! The bot works at the moment !</h3>
 
-- ⚙ Project status: Fixing Bugs... 
+- ⚙ Project status: Stable
 
 - ⁉ Default Prefix: !
 
