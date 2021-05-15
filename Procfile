@@ -1,1 +1,1 @@
-Worker: Node .
+Worker: node .
