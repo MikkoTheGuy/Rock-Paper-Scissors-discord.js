@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MikkoTheGuy</h1>
 <h3 align="center">! The bot works, but the ping command must be fixed !</h3>
 
-- ⚙ Project status: Fixing Bugs 
+- ⚙ Project status: Fixing Bugs... 
 
 - ⁉ Default Prefix: !
 
