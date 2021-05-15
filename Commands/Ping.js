@@ -1,11 +1,20 @@
 module.exports = {
 	name: 'ping',
 	description: 'Ping!',
-	execute(message, ) {
-        message.channel.send("Pinging...").then(m =>{
-            var ping = m.createdTimestamp - message.createdTimestamp;
+	execute(message, args) {
+        const Discord = require('discord.js');   
+        
 
-            m.edit(`:ping_pong: | Your Ping Is: ${ping}ms`);
-        });
+        // inside a command, event listener, etc.
+        const exampleEmbed = new Discord.MessageEmbed()
+            .setColor('#FFEF00')
+            .setTitle('Ping? Pong!')
+            .addFields(
+                {name: '🏓 Your ping', value: `${message.createdTimestamp - Date.now()}ms` },
+            )
+            .setTimestamp()
+            .setFooter('RPS BOT');
+        
+        message.channel.send(exampleEmbed);
     }
 }
