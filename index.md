@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to RPS discord bot site
 
-You can use the [editor on GitHub](https://github.com/MikkoTheGuy/Rock-Paper-Scissors-discord.js/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can download the bot files and know about the story behind this project
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
